@@ -1,0 +1,26 @@
+.heading{
+    color: purple;
+    text-align: center;
+}
+
+.heading a{
+    color: purple;
+}
+
+
+
+.content{
+    color: violet;
+    text-align: center;
+    list-style-position: inside;
+}
+
+html{
+    background-color: black;
+}
+
+.pics{
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}

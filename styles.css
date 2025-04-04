@@ -1,10 +1,14 @@
 .heading{
     color: purple;
     text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .heading a{
     color: purple;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
@@ -12,7 +16,7 @@
 .content{
     color: violet;
     text-align: center;
-    list-style-position: inside;
+    list-style-position:inside;
 }
 
 html{
@@ -21,6 +25,6 @@ html{
 
 .pics{
     border-radius: 50%;
-    display: block;
-    margin: 0 auto;
+    display: block;  /*centering the image*/
+    margin: 0 auto;  /*centering the image*/
 }
